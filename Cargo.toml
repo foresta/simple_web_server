@@ -1,0 +1,6 @@
+[package]
+name = "simple_web_server"
+version = "0.1.0"
+authors = ["kazuki morita <kz.morit@gmail.com>"]
+
+[dependencies]
